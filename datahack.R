@@ -1,10 +1,10 @@
 ## Reading the training data into R
 
-train_data <- read.csv("D:/AnalyticsVidhya_Datahack3.x/Train_data.csv",header = T, stringsAsFactors = F)
+train_data <- read.csv(".../AnalyticsVidhya_Datahack3.x/Train_data.csv",header = T, stringsAsFactors = F)
 
 ## Reading the test data into R
 
-test_data <- read.csv("D:/AnalyticsVidhya_Datahack3.x/Test_data.csv",header = T, stringsAsFactors = F)
+test_data <- read.csv(".../AnalyticsVidhya_Datahack3.x/Test_data.csv",header = T, stringsAsFactors = F)
 
 ## Combining the train and test data sets
 
